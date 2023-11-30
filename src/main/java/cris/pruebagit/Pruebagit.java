@@ -11,6 +11,6 @@ package cris.pruebagit;
 public class Pruebagit {
 
     public static void main(String[] args) {
-        System.out.println("Lo que sea!");
+        System.out.println("Lo que sea! adfdf");
     }
 }
